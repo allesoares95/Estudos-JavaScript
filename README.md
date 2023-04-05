@@ -8,5 +8,7 @@
   ### Aprendendo Programar do Zero com JavaScript:
     
     Primeiros passos com JavaScript.
+    Variaveis e Operadores
     Conhecendo Funções.
+    Criando Objetos e Classes.
     
